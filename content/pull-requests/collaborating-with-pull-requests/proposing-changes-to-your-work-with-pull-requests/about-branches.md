@@ -60,7 +60,7 @@ Repository administrators can enable protections on a branch. If you're working 
 
 {% note %}
 
-**Note:** If you're a repository administrator, you can merge pull requests on branches with branch protections enabled even if the pull request does not meet the requirements, unless branch protections have been set to "Include administrators."
+**Note:** If you're a repository administratorwhohas  you, you can merge pull requests on branches with branch protections enabled even if the pull request does not meet the requirements, unless branch protections have been set to "Include administrators."
 
 {% endnote %}
 
